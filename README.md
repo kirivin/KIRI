@@ -1,0 +1,2 @@
+# KIRI
+read rentry !! 
